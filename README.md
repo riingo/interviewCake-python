@@ -1,2 +1,2 @@
-# interviewCake-python
-Python solutions for InterviewCake questions.
+# python-practice 
+Python solutions for various interview questions.
